@@ -9,12 +9,12 @@ In real-world problem we are not performing gradient descent by ourself, we have
 
 ## Binary classification ##
 * 2 inputs
-* 1 hiden layer with 2 neurons
+* 1 hidden layer with 2 neurons
 * output layer with 1 neuron
 
 ## Multiclass classification (4-class) ##
 * 2 inputs
-* 1 hinnden layer with 2 neurons
+* 1 hidden layer with 2 neurons
 * output layer with 4 neurons
 
 ## Notations ##

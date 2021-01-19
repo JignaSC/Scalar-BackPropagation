@@ -18,6 +18,6 @@ In real-world problem we are not performing gradient descent by ourself, we have
 * output layer with 4 neurons
 
 ## Notations ##
-* a = x * w
+* a = x * w ; x = input, w = weight
 * h = activation(a)
 
